@@ -1,0 +1,12 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"D4,D52,D26,D29,D2,D64,D61,D16,D63,D28,D51,D1,D23,D46,D58,D3,D39,D24,D44,D12,D36,D45,D41,D32,D20,D7,D40,D47,D50,D54,D56,D55,D10,D62,D34,D6,D27,D21,D14,D53,D8,D17,D11,D33,D37,D60,D43,D42,D49,D30,D31,D35,D19,D15,D59,D38,D57,D5,D25,D13,D9,D22,D48,D18";"0402LED";64;"0402LED";;;
+2;"REF**";"Logo-Back-SolderedFULL-17mm";1;"Logo-Front-SolderedFULL-17mm";;;
+3;",,,,,,,,,,,,,,,,";"buzzardLabel";17;"";;;
+4;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
+5;"H2,H1";"HOLE_3.2mm";2;"HOLE_3.2mm";;;
+6;"FD1";"FIDUCIAL_23";1;"FIDUCIAL";;;
+7;"U1";"SOIC-24";1;"MAX7219";;;
+8;"R1";"0603R";1;"22k";;;
+9;"G***";"Logo-Front-Soldered-5mm";1;"LOGO";;;
+10;"Ref**";"Version1.0.0.";1;"Val**";;;
+11;"K1,K2";"HEADER_MALE_5X1";2;"HEADER_MALE_5X1";;;
