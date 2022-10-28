@@ -1,1 +1,57 @@
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED matrix Purple MAX7219 board/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .gitignore
+	modified:   CAD/Change Log.xlsx
+	modified:   CAD/V1.0.0/LED MATRIX MAX7219.kicad_pcb
+	modified:   CAD/V1.0.0/LED MATRIX MAX7219.kicad_pro
+	modified:   CAD/V1.0.0/LED MATRIX MAX7219.kicad_sch
+	modified:   CAD/V1.0.0/PANEL/LED MATRIX MAX7219.kicad_pcb
+	modified:   CAD/V1.0.0/PANEL/LED MATRIX MAX7219.kicad_pro
+	modified:   LICENSE.md
+	new file:   OUTPUTS/Compliance/CE.pdf
+	new file:   OUTPUTS/Compliance/Info.txt
+	new file:   OUTPUTS/Compliance/Safety sheet DE.pdf
+	new file:   OUTPUTS/Compliance/Safety sheet EN.pdf
+	new file:   OUTPUTS/Compliance/UKCA.pdf
+	modified:   OUTPUTS/V1.0.0/8x8 LED matrix Purple MAX7219 board.jpg
+	modified:   OUTPUTS/V1.0.0/8x8 LED matrix Purple MAX7219 board_ibom.html
+	modified:   OUTPUTS/V1.0.0/8x8_LED_Matrix_Purple_MAX7219_board_BOM.csv
+	modified:   OUTPUTS/V1.0.0/8x8_LED_matrix_Purple_MAX7219_board.pdf
+	modified:   OUTPUTS/V1.0.0/8x8_LED_matrix_Purple_MAX7219_board_177.4x174.4_24.zip
+	modified:   OUTPUTS/V1.0.0/8x8_LED_matrix_Purple_MAX7219_board_3D.step
+	modified:   README.md
+	new file:   log.txt
+
+[main fe02592] Updating open source files.
+ 21 files changed, 6 insertions(+)
+ mode change 100644 => 100755 .gitignore
+ mode change 100644 => 100755 CAD/Change Log.xlsx
+ mode change 100644 => 100755 CAD/V1.0.0/LED MATRIX MAX7219.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/LED MATRIX MAX7219.kicad_pro
+ mode change 100644 => 100755 CAD/V1.0.0/LED MATRIX MAX7219.kicad_sch
+ mode change 100644 => 100755 CAD/V1.0.0/PANEL/LED MATRIX MAX7219.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/PANEL/LED MATRIX MAX7219.kicad_pro
+ mode change 100644 => 100755 LICENSE.md
+ create mode 100755 OUTPUTS/Compliance/CE.pdf
+ create mode 100755 OUTPUTS/Compliance/Info.txt
+ create mode 100755 OUTPUTS/Compliance/Safety sheet DE.pdf
+ create mode 100755 OUTPUTS/Compliance/Safety sheet EN.pdf
+ create mode 100755 OUTPUTS/Compliance/UKCA.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/8x8 LED matrix Purple MAX7219 board.jpg
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/8x8 LED matrix Purple MAX7219 board_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/8x8_LED_Matrix_Purple_MAX7219_board_BOM.csv
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/8x8_LED_matrix_Purple_MAX7219_board.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/8x8_LED_matrix_Purple_MAX7219_board_177.4x174.4_24.zip
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/8x8_LED_matrix_Purple_MAX7219_board_3D.step
+ mode change 100644 => 100755 README.md
+ create mode 100755 log.txt
+https://github.com/SolderedElectronics/8x8-LED-matrix-Purple-MAX7219-board-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED matrix White MAX7219 board/OUTPUTS/V1.0.0: all files are present, commiting...
+8x8-LED-matrix-White-MAX7219-board-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED matrix White MAX7219 board to 8x8-LED-matrix-White-MAX7219-board-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED matrix Purple MAX7219 board/.git/
