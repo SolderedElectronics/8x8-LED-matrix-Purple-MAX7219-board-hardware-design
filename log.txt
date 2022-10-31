@@ -70,3 +70,32 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED matrix White MAX7219 board to 8x8-LED-matrix-White-MAX7219-board-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED matrix Purple MAX7219 board/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 826ff87] Updating open source files.
+ 1 file changed, 15 insertions(+)
+https://github.com/SolderedElectronics/8x8-LED-matrix-Purple-MAX7219-board-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED matrix White MAX7219 board/OUTPUTS/V1.0.0: all files are present, commiting...
+8x8-LED-matrix-White-MAX7219-board-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED matrix White MAX7219 board to 8x8-LED-matrix-White-MAX7219-board-hardware-design
+https://github.com/SolderedElectronics/8x8-LED-matrix-Purple-MAX7219-board-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED matrix White MAX7219 board/OUTPUTS/V1.0.0: all files are present, commiting...
+8x8-LED-matrix-White-MAX7219-board-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED matrix White MAX7219 board to 8x8-LED-matrix-White-MAX7219-board-hardware-design
+https://github.com/SolderedElectronics/8x8-LED-matrix-Purple-MAX7219-board-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED matrix White MAX7219 board/OUTPUTS/V1.0.0: all files are present, commiting...
+8x8-LED-matrix-White-MAX7219-board-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED matrix White MAX7219 board to 8x8-LED-matrix-White-MAX7219-board-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/8x8 LED matrix Purple MAX7219 board/.git/
